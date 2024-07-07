@@ -12,7 +12,7 @@ How to Use
 Getting started
 
 # Demo:
-You can view the live demo of my portfolio website [https://sivabala-manikandan.github.io/Portfolio-simple-website/]
+You can view the live demo of my portfolio website [https://sivabalamanikandan-c.github.io/Portfolio-simple-website/]
 
 # Features:
 Simple and clean design
